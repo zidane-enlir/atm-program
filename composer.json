@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Csv\\" : "csv/",
+            "Validations\\" : "validations/",
+            "Models\\" : "models/"
+        }
+    }
+}
